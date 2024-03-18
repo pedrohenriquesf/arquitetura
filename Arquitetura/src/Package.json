@@ -1,0 +1,14 @@
+{
+    "name": "Arquitetura",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specifild\" && exit 1",
+        "start": "node Index.js"
+
+    },
+    "autor": "",
+    "license": "ISC"
+}
